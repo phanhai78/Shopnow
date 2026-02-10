@@ -24,11 +24,13 @@ Product Service,
 `
 curl -i http://localhost:5860/api/product/health
 `
-Shopping Cart
-`
 
+Shopping Cart
+
+`
 curl -i http://localhost:5860/api/shopping-cart/health
 `
+
 User Service,
 `
 curl -i http://localhost:5860/api/user/health
